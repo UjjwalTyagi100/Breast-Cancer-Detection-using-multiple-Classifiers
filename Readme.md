@@ -1,4 +1,4 @@
-# Breast Cancer Prediction using Multiple Classifiers
+# Breast Cancer Detection using Multiple Classifiers
 ### Project Overview:
 This project focuses on building machine learning models to predict breast cancer based on a given dataset. We explore various classification algorithms, including:
 
